@@ -1,10 +1,9 @@
 def my_each(array) # put argument(s) here
   # code here
-  while i <
-    yield my_each do
-      puts "#{array}"
+  while
+    array = []
   end
-  array
-  end
-
+ def each &block
+   array.each &block
+ end
 end
