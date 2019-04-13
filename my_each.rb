@@ -5,8 +5,7 @@ def my_each(array) # put argument(s) here
     yield(array[i]
     i += 1
   end
- def 
+ def
    array
  end
 end
-
